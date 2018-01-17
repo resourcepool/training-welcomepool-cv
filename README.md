@@ -86,7 +86,7 @@ Some skeletons of pages:
   - contact.html
   - 404.html
 
-We also added a cv-sample.json which contains a possible schema for your models 
+We also added a cv-sample.json which contains a possible schema for your models
 (You may go another way or change some fields obviously).
 
 # Bonus
@@ -97,3 +97,7 @@ Here are a few features we as a customer would have loved to have available.
  * Implement security (through Oauth: Twitter or Github or LinkedIn)
  * Add a newsletter form and newsletter management in your admin section
  * Make all your sections use Markdown and a nice Markdown editor to format your content
+
+# License
+The static content of this project is a derivate from [Kataklimt](https://www.html5xcss3.com/2012/12/html5-template-kataklimt.html), a HTML5/CSS3 website template.
+Thanks for the authors for providing it for free.
