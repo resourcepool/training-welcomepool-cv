@@ -68,7 +68,6 @@ We advise to use the default ORM which goes with Wildfly for data persistence in
 Create the main architecture for your web app.
 
 ## Integration
-TODO: Loïc
 Download the provided web architecture in the **resources** directory.
 Integrate it in your project.
 
@@ -77,15 +76,18 @@ Integrate it in your project.
  * Your demo must be following a client perspective. You are making the demonstration for the project they have asked you to deliver. Two parts can be prepared. The first part refers mostly to showing what you have done, and how you made things. The second part explains your technical choices, and your roadmap for further improvements.
 
 ### Provided content
+
 We provided you with some content to help you bootstrap your work.
   - HTML5 architecture
-  - Bootstrap 3
-  - Jquery 3
-  - Font Awesome 4
+  - Some CSS bootstrap code + js libs
 
-Some of the pages:
+Some skeletons of pages:
   - index.html
-  - admin.html
+  - contact.html
+  - 404.html
+
+We also added a cv-sample.json which contains a possible schema for your models 
+(You may go another way or change some fields obviously).
 
 # Bonus
 All is done on day 3?

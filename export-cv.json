@@ -1,0 +1,208 @@
+{
+  "work": [
+    {
+      "position": "Geek",
+      "company": {"name": "Resourcepool", "details": "Disruptive OpenSource Community of projects for training and coding purposes. For everyone. For free."},
+      "startDate": "2016-01-01",
+      "location": "Paris, France",
+      "achievements": [
+        {"label": "Architect and Developer of the Platform", "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."},
+        {"label": "Management of Clustering / Data Import / Caching", "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
+      ],
+      "tags": [
+        "Lorem", "Ipsum", "Dolor", "Sit", "Amet", "Consectetur", "Adipiscing", "Elit"
+      ]
+    },
+    {
+      "position": "Lorem",
+      "company": {"name": "Ipsum", "details": "Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et."},
+      "startDate": "2013-01-01",
+      "endDate": "2015-11-30",
+      "location": "Paris, France",
+      "achievements": [
+        {"label": "Lorem ipsum dolor", "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."},
+        {"label": "Sit amet, consectetur adipiscing elit", "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
+      ],
+      "tags": [
+        "Lorem", "Ipsum", "Dolor", "Sit", "Amet", "Consectetur", "Adipiscing", "Elit"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Grand Master Certification",
+      "type": "certificate",
+      "date": "2015-05-15",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "title": "Master of Engineering: School of Rock",
+      "type": "degree",
+      "date": "2013-12-01",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    }
+  ],
+  "skills": [
+    {
+      "label": "Programming",
+      "skills": [
+      {
+        "label": "Java",
+        "level": 4
+      },
+      {
+        "label": "Spring",
+        "level": 3
+      },
+      {
+        "label": "Vert.x",
+        "level": 3
+      },
+      {
+        "label": "Cassandra",
+        "level": 3
+      },
+      {
+        "label": "Maven",
+        "level": 2
+      },
+      {
+        "label": "RxJava2",
+        "level": 4
+      },
+      {
+        "label": "Node.js",
+        "level": 4
+      }
+    ]
+    },
+    {
+      "label": "Android",
+      "skills": [
+      {
+        "label": "OKHttp",
+        "level": 2
+      },
+      {
+        "label": "Jackson",
+        "level": 4
+      },
+      {
+        "label": "EventBus",
+        "level": 3
+      },
+      {
+        "label": "MVP",
+        "level": 3
+      },
+      {
+        "label": "Material Design",
+        "level": 3
+      },
+      {
+        "label": "Gradle",
+        "level": 2
+      }
+    ]
+    },
+    {
+      "label": "DevOps",
+      "skills": [
+      {
+        "label": "Linux",
+        "level": 4
+      },
+      {
+        "label": "Terraform",
+        "level": 3
+      },
+      {
+        "label": "Ansible",
+        "level": 3
+      },
+      {
+        "label": "Docker",
+        "level": 4
+      },
+      {
+        "label": "Jenkins",
+        "level": 4
+      },
+      {
+        "label": "Gitlab-CI",
+        "level": 4
+      },
+      {
+        "label": "InfluxDB",
+        "level": 4
+      }
+    ]
+    },
+    {
+      "label": "Web",
+      "skills": [
+      {
+        "label": "HTML5,CSS3",
+        "level": 4
+      },
+      {
+        "label": "Angular",
+        "level": 1
+      },
+      {
+        "label": "React.js",
+        "level": 4
+      },
+      {
+        "label": "Redux",
+        "level": 3
+      },
+      {
+        "label": "Webpack",
+        "level": 2
+      }]
+    },
+    {"label": "Other", "skills": [
+      {
+        "label": "Git",
+        "level": 5
+      },
+      {
+        "label": "SQL",
+        "level": 3
+      },
+      {
+        "label": "MongoDB",
+        "level": 3
+      },
+      {
+        "label": "Scrum, XP",
+        "level": 3
+      }]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "website": "#",
+      "tags": ["Lorem", "Ipsum"]
+    },
+    {
+      "title": "Dolor Sit",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "website": "#",
+      "tags": ["Lorem", "Dolor"]
+    }
+  ],
+  "hobbies": [
+    {
+      "title": "Travel",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "title": "Photography",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    }
+  ]
+}
